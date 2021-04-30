@@ -1,6 +1,6 @@
 # Amazing Restful APIs
 
-Here we have some amazing Restful APIs
+Here we have some free amazing Restful APIs
 
 ## APIs
 
@@ -37,22 +37,11 @@ Open or create a `.env` file then edit add this setting
 
 ## Running the project
 
-```
-$ yarn start
-```
-or
-```
-
-$ npm start
-```
+    $ yarn start
 
 ## Running the dev project
 
     $ yarn dev
-or
-```
-$ npm run dev
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
