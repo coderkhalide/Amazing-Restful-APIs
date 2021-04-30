@@ -4,7 +4,7 @@ Here we have some amazing Restful APIs
 
 ## APIs
 
-#### Check app APIs [Here](https://ksapis.herokuapp.com)
+#### Check all APIs [Here](https://ksapis.herokuapp.com)
 
 - Extract Title, Description, Keywords, Images and Videos from URLs 😀 [Live demo](https://ksapis.herokuapp.com/api/site-data)
 
